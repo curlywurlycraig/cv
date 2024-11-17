@@ -81,3 +81,7 @@ ul {
     -moz-columns: 2;
     column-gap: 40px;
 }
+
+b {
+    font-weight: 600;
+}
